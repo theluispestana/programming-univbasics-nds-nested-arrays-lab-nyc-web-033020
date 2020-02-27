@@ -49,9 +49,7 @@ def sorted_matrix
     "Grapes",
     "Avocadoes",
     "Asparagus"
-  ]
-
-  organic.sort
+  ].sort
 
   conventional = [
     "Grapefruit",
@@ -59,9 +57,7 @@ def sorted_matrix
     "Oranges",
     "Watermelon",
     "Eggplant"
-  ]
-
-  conventional.sort
+  ].sort
 
   matrix = [organic, conventional]
 end
