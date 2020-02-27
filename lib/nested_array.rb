@@ -63,7 +63,7 @@ def sorted_matrix
 
   conventional.sort
 
-  matrix = [ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE]
+  matrix = [organic, conventional]
 end
 
 def matrix_lookup(matrix, row, column)
