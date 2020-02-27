@@ -61,7 +61,7 @@ def sorted_matrix
   ]
   matrix[0].sort
   matrix[1].sort
-  matric
+  matrix
 end
 
 def matrix_lookup(matrix, row, column)
